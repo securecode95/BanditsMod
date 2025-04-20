@@ -1,0 +1,2 @@
+/home/retrobalder/Mods_Dev/BanditsMod/obj/Debug/BanditsMod.csproj.AssemblyReference.cache
+/home/retrobalder/Mods_Dev/BanditsMod/obj/Debug/BanditsMod.csproj.CoreCompileInputs.cache
